@@ -12,3 +12,5 @@ const fn = ({ a, b }) => {
     };
     let b_1 = b * 2
 }
+
+var z = 'Z_VALUE';
