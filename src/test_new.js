@@ -1,5 +1,7 @@
 /*jshint esversion: 6*/
 var x = 'X_VALUE';
+var k = 'K_ISEVERYTHING';
+var z = 'Z_VALUE';
 const fn = ({ a, b }) => {
     const a_1 = a * 2;
     let c;
@@ -12,5 +14,3 @@ const fn = ({ a, b }) => {
     };
     let b_1 = b * 2
 }
-
-var z = 'Z_VALUE';
